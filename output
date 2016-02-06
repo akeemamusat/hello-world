@@ -1,0 +1,7 @@
+#include <iostream>
+
+int main()
+{
+    std::cout << "Welcome to Akeem Repository" << std::endl;
+    return 0;
+}
